@@ -1,5 +1,5 @@
 # ::after
-
+###(已翻译完)
 ::after is a generated content element that represents a styleable abstract last child of the respective element.
 
 ::after是生成内容元素,作为元素内容的一个"无形"的子元素插在其最后.
