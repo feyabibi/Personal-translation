@@ -36,8 +36,8 @@ The result of the above code is the following:
 
 上述代码运行结果如下：
 
-*此处有demo,以下是demo地址*
-[](http://tympanus.net/codrops-playground/SaraSoueidan/dYfExU3k/embed/result,html,css/)
+*此处有demo
+[demo地址](http://tympanus.net/codrops-playground/SaraSoueidan/dYfExU3k/embed/result,html,css/)
 <iframe src="http://tympanus.net/codrops-playground/SaraSoueidan/dYfExU3k/embed/result,html,css/" class="codrops-playground-embed" width="100%" height="300px" frameborder="0" scrolling="no" allowfullscreen="true" style="position: relative;"> </iframe>
 
 
