@@ -114,7 +114,8 @@ Since the pseudo-element is used as a cosmetic element only, its content can be 
 
 由于在这里伪元素仅作为"装扮"元素,所以内容可以为空.
 
-*此处有demo,以下是demo地址*
+*此处有demo
+[demo地址](http://tympanus.net/codrops-playground/SaraSoueidan/kFTn9yJk/embed/result,html,css/)
 <iframe src="http://tympanus.net/codrops-playground/SaraSoueidan/kFTn9yJk/embed/result,html,css/" class="codrops-playground-embed" width="100%" height="480px" frameborder="0" scrolling="no" allowfullscreen="true" style="position: relative;">  </iframe>
 
 This demo can also be created similarly using the [::before
@@ -231,7 +232,8 @@ To restrict this to print style sheets only, you would have to use the media at-
 
 以下是将此概念运用在网页上的在线demo,要将此限制为仅打印样式表，你不得不使用到上文提到的媒体查询规则. 为了示范,我们将在网页中应用这个例子.
 
-*此处有demo,以下是demo地址*
+*此处有demo
+[demo地址](http://tympanus.net/codrops-playground/SaraSoueidan/AuXAZ3c8/embed/result,html,css/)
 <iframe src="http://tympanus.net/codrops-playground/SaraSoueidan/AuXAZ3c8/embed/result,html,css/" class="codrops-playground-embed" width="100%" height="300px" frameborder="0" scrolling="no" allowfullscreen="true" style="position: relative;"> </iframe>
 
 #Live Demo
@@ -241,7 +243,8 @@ The following demo uses ::after to add an arrow sign to menu items that open a s
 
 在下面的演示中使用::after添加一个箭头标志到菜单中，当鼠标悬停在箭头上时会打开一个子菜单.通过转义箭头标志的unicode码,可以将箭头添加在content属性中, 这是通过CSS表示和添加字形的常用方式。
 
-*此处有demo,以下是demo地址*
+*此处有demo
+[demo地址](http://tympanus.net/codrops-playground/SaraSoueidan/RETvk1HZ/embed/result,html,css/)
 <iframe src="http://tympanus.net/codrops-playground/SaraSoueidan/RETvk1HZ/embed/result,html,css/" class="codrops-playground-embed" width="100%" height="300px" frameborder="0" scrolling="no" allowfullscreen="true" style="position: relative;"></iframe>
 
 When the item is hovered, the arrow pointing down is replaced by an arrow pointing up by changing the value of the string in the [content
